@@ -1,0 +1,12 @@
+"DepotBuildConfig"
+{
+	"DepotID" "2967052"
+	"contentroot" "C:\Source\SurvivalScape\Build\Linux Demo"
+	"FileMapping"
+	{
+		"LocalPath" "*"
+		"DepotPath" "."
+		"recursive" "1"
+	}
+	"FileExclusion" "*.pdb"
+}

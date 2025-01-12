@@ -1,0 +1,16 @@
+"appbuild"
+{
+	"appid" "2967050"
+	"desc" ""
+	"buildoutput" "C:\Source\SurvivalScape\Build\_Deploy Steam\output"
+	"contentroot" ""
+	"setlive" ""
+	"preview" "0"
+	"local"	""
+	"depots"
+	{
+		"2967051"	"C:\Source\SurvivalScape\Build\_Deploy Steam\scripts\depot_2967051.vdf"
+		"2967052"	"C:\Source\SurvivalScape\Build\_Deploy Steam\scripts\depot_2967052.vdf"
+		"2967053"	"C:\Source\SurvivalScape\Build\_Deploy Steam\scripts\depot_2967053.vdf"
+	}
+}
